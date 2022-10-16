@@ -5,9 +5,9 @@
     <p>Sistema de gerenciamento para controlar a distribuição de refeições em restaurantes industriais</p>
 </div>
 
-O Garfada foi/está sendo pensado para substituir o antigo método de registro em papel de destribuição de refeições feita por restaurantes industriais e ajudar seu utilizador a gerenciar e controla a distribuição de seus produtos, garantindo a identidade de quem recebeu, quando recebeu e quantas vezes; sendo rápido de registrar, fácil de usar e uma fonte de verdade tanto para quem está aplica o sistema quanto para quem verifica seus registros.
+O Garfada é um sistema computacional criado para substituir o antigo método de registro da destribuição de refeições realizadas por restaurantes industriais, garantindo a identidade de quem recebeu, quando recebeu e quantas vezes; tudo isso sendo simples de utilizar, rápido de registrar, multiplataforma e confiável, sendo uma fonte de verdade tanto para quem aplica o sistema quanto para quem verifica seus registros.
 
-Sua intenção é ajudar a evitar as disputas sobre quantas refeições foram distribuídas, quais pratos foram servidors, susbsituidos ou cortados em determinado dia, economizar tempo de criação de planilhas, diminuir filas geradas pela asinatura, gerar relatórios e eliminar a perda de informações, tudo com uma interface de usuário tão simples que todos podem a usar facilmente, e tudo isso sendo *Open-Source* e disponivel para todos.
+Sua intenção é ajudar a evitar as disputas relacionadas a quantas refeições foram distribuídas, quais pratos foram servidors, susbsituidos ou cortados em um determinado dia, economizar tempo de criação de planilhas, diminuir filas geradas pela asinatura, gerar relatórios e eliminar a perda de informações; e tudo isso sendo *Open-Source*.
 
 ## Funcionalidades
 
