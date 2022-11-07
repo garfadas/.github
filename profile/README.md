@@ -5,19 +5,19 @@
     <p>Sistema de gerenciamento e controle para distribuição de refeições em restaurantes industriais</p>
 </div>
 
-O Garfadas é um sistema computacional criado para substituir o antigo método de registro da destribuição de refeições realizadas por restaurantes industriais, garantindo a identidade de quem recebeu, quando recebeu e quantas vezes; tudo isso sendo simples de utilizar, rápido de registrar, multiplataforma e confiável, sendo uma fonte de verdade tanto para quem aplica o sistema quanto para quem verifica seus registros.
+O Garfadas é um sistema computacional criado para substituir o antigo método de registro da distribuição de refeições realizadas por restaurantes industriais, garantindo a identidade de quem recebeu, de quando recebeu e de quantas vezes, tudo isso sendo simples de utilizar, rápido de registrar, multiplataforma e confiável, tanto para quem aplica o sistema quanto para quem verifica seus registros.
 
-Sua intenção é ajudar a evitar as disputas relacionadas a quantas refeições foram distribuídas, quais pratos foram servidors, susbsituidos ou cortados em um determinado dia, economizar tempo de criação de planilhas, diminuir filas geradas pela asinatura, gerar relatórios e eliminar a perda de informações; e tudo isso sendo *Open-Source*.
+A principal intenção por trás do Garfaadas é evitar as disputas relacionadas a quantas refeições foram distribuídas, quais pratos foram servidos, substituídos ou cortados em um determinado dia, economizar tempo de criação de planilhas, diminuir filas geradas pela assinatura, gerar relatórios e eliminar a perda de informações; e tudo isso sendo *Open-Source*.
 
 ## Funcionalidades
 
-O Garfadas visa atender seus clientes através das funcionalidades descritas.
+O Garfadas visa atender seus clientes através das funcionalidades descritas;
 
 - Registro de empresas clientes
 - Registro dos colabores das empresas clientes
 - Registro de refeições
 - Interface minimalista para liberação das refeições
-- Geração de reportes diários, semais e mensais
+- Geração de reportes diários, semanais e mensais
 - Aplicativo multiplataforma
 - Funcionamento offline
 - Totalmente em português
