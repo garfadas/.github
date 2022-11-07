@@ -1,17 +1,17 @@
-![garfada's banner](https://github.com/garfada/documentation/raw/main/media/garfada_banner.png)
+![garfadas' banner](https://github.com/garfadas/server/raw/main/docs/media/garfadas_banner.png)
 
 <div align="center">
-    <h1>Garfada</h1>
+    <h1>Garfadas</h1>
     <p>Sistema de gerenciamento e controle para distribuição de refeições em restaurantes industriais</p>
 </div>
 
-O Garfada é um sistema computacional criado para substituir o antigo método de registro da destribuição de refeições realizadas por restaurantes industriais, garantindo a identidade de quem recebeu, quando recebeu e quantas vezes; tudo isso sendo simples de utilizar, rápido de registrar, multiplataforma e confiável, sendo uma fonte de verdade tanto para quem aplica o sistema quanto para quem verifica seus registros.
+O Garfadas é um sistema computacional criado para substituir o antigo método de registro da destribuição de refeições realizadas por restaurantes industriais, garantindo a identidade de quem recebeu, quando recebeu e quantas vezes; tudo isso sendo simples de utilizar, rápido de registrar, multiplataforma e confiável, sendo uma fonte de verdade tanto para quem aplica o sistema quanto para quem verifica seus registros.
 
 Sua intenção é ajudar a evitar as disputas relacionadas a quantas refeições foram distribuídas, quais pratos foram servidors, susbsituidos ou cortados em um determinado dia, economizar tempo de criação de planilhas, diminuir filas geradas pela asinatura, gerar relatórios e eliminar a perda de informações; e tudo isso sendo *Open-Source*.
 
 ## Funcionalidades
 
-O Garfada visa atender seus clientes através das funcionalidades descritas.
+O Garfadas visa atender seus clientes através das funcionalidades descritas.
 
 - Registro de empresas clientes
 - Registro dos colabores das empresas clientes
