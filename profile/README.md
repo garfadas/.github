@@ -23,10 +23,7 @@ O Garfadas visa atender seus clientes através das funcionalidades descritas;
 - Totalmente em português
 
 ## Colaboração
+O projeto está num estágio muito inicial da sua concepção; grande parte ainda são ideias, diagramas ou pequenas implementações, nada muito fixo, podendo ser alterado conforme as necessidade, contudo,  as  funcionalidades descritas são o foco da aplicação e guiarão o seu desenvolvimento.
 
-Você gostou da ideia e acredita que ela pode solucinar problemas que acontecem hoje no seu negócio? Entre em contato e ajude a acelerar o desenvolmento do projeto.
+Se você gostou da ideia e acredita que ela pode solucionar alguns problemas que acontecem hoje no seu negócio? Contribua! Entre em contato pelas redes sociais ou mande um e-mail, sua ajuda irá acelerar bastante o processo de desenvolvimento da ferramenta. Para você desenvolvedor, o Garfadas pode ser uma ótima opção de contribuição de projeto de código aberto, pois uma das suas ideias é se manter simples, tornando a contribuição para ele acessível para a maioria dos desenvolvedores.
 
-<div align="center">
-    <a href="mailto:contato@henrybarreto.dev"><img width="80" src="https://user-images.githubusercontent.com/23109089/195734874-1ec43865-b603-481f-ada8-f79883ee2c50.png"></a>
-    <a href="https://discord.gg/chAWNQuM"><img  width="80" src="https://user-images.githubusercontent.com/23109089/195735065-d7c2f909-f2e0-4d56-aa86-03713ce8be90.png"></a>
-</div>
