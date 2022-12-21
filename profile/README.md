@@ -1,29 +1,31 @@
 ![garfadas' banner](https://github.com/garfadas/server/raw/main/docs/media/garfadas_banner.png)
 
-<div align="center">
-    <h1>Garfadas</h1>
-    <p>Sistema de gerenciamento e controle para distribuição de refeições em restaurantes industriais</p>
-</div>
+O Garfadas é um sistema de emissão e controle de Vale-Alimentação ou Refeição para pequenos negócios. Com ele seu negócio poderá **emitir** o próprio Vale-Alimentação ou Refeição **recarregável**, e **customizado** para sua marca, com uma **interface simples e intuitiva** e de **graça**!
 
-O Garfadas é um sistema computacional criado para substituir o antigo método de registro da distribuição de refeições realizadas por restaurantes industriais, garantindo a identidade de quem recebeu, de quando recebeu e de quantas vezes, tudo isso sendo simples de utilizar, rápido de registrar, multiplataforma e confiável, tanto para quem aplica o sistema quanto para quem verifica seus registros.
+## Histórias
 
-A principal intenção por trás do Garfaadas é evitar as disputas relacionadas a quantas refeições foram distribuídas, quais pratos foram servidos, substituídos ou cortados em um determinado dia, economizar tempo de criação de planilhas, diminuir filas geradas pela assinatura, gerar relatórios e eliminar a perda de informações; e tudo isso sendo *Open-Source*.
+- O Negócio oferece a seus clientes um Vale-Alimentação ou Refeição recarregável com conversão financeiramente favorável a eles. Clientes recorrentes contratam pela clara vantagem financeira e o Negócio ganha um fluxo alto de caixa duma só vez; além de garantir que aquele valor será gasto apenas em seu negócio.
+- O Negócio pode **emitir** um novo Vale-Alimentação através dum botão que abrirá um fomulário para a definição da primeira recarga, um campo opcional de Taxa da Vantagem exclusiva para tal cartão, um campo para envio da imagem e outro para definição da cor principal do Vale.
+- O Negócio pode **recarregar** o Vale-Alimentação de um Cliente através dum botão que abrirá um formulário requisitando o código de barras localizado no Vale-Alimentação ou Refeição com o valor a ser recarregado e a Taxa de Vantagem exclusiva para tal recarga.
+- O Negócio pode **cancelar** um Vale-Alimentação através dum botão que abrirá um formulário quer requer código do Vale-Alimentação ou Refeição **apenas** quando o **mesmo estiver sem recarga por um determinado perídio de tempo** acordado pleo Negócio e o Cliente, quando **requisitado pelo Cliente**, descontando a Taxa de Vantagem sobre o valor restante, por tentativa de **fraude, roubo ou violência** **comprovada** do Cliente, por **falência ou fechamento do Negócio**, mediante ao ressarcimento do Cliente, descontado a Taxa de Vantagem.
+- O Negócio pode gerar **relatórios** de emissão, recargar, descarga e cancelamento dos vales ou de um vale específico através dum botão que abrirá um menu para seleção do tipo de relatório desejado.
 
 ## Funcionalidades
 
-O Garfadas visa atender seus clientes através das funcionalidades descritas;
+- Emissão de Vale
+- Recarga de Vale
+- Descarga de Vale
 
-- Registro de empresas clientes
-- Registro dos colabores das empresas clientes
-- Registro de refeições
-- Interface minimalista para liberação das refeições
-- Geração de reportes diários, semanais e mensais
-- Aplicativo multiplataforma
-- Funcionamento offline
-- Totalmente em português
+- Cancelamento de Vale
+- Relatórios
+    - Emissão
+    - Recarga
+    - Descarga
 
-## Colaboração
-O projeto está num estágio muito inicial da sua concepção; grande parte ainda são ideias, diagramas ou pequenas implementações, nada muito fixo, podendo ser alterado conforme as necessidade, contudo,  as  funcionalidades descritas são o foco da aplicação e guiarão o seu desenvolvimento.
+## Vale
 
-Se você gostou da ideia e acredita que ela pode solucionar alguns problemas que acontecem hoje no seu negócio? Contribua! Entre em contato pelas redes sociais ou mande um e-mail, sua ajuda irá acelerar bastante o processo de desenvolvimento da ferramenta. Para você desenvolvedor, o Garfadas pode ser uma ótima opção de contribuição de projeto de código aberto, pois uma das suas ideias é se manter simples, tornando a contribuição para ele acessível para a maioria dos desenvolvedores.
+O Garfadas disponibilizará a emissão de Vale customizado com a logomarca do seu negócio, trazendo mais personalidade a eles.
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/23109089/208806613-65848d6e-0e6c-4836-9a95-4a412e209ecd.png">
+</div>
