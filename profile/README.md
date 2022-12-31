@@ -1,4 +1,4 @@
-![garfadas's banner](res/media/garfadas_banner.png)
+![garfadas' banner](https://github.com/garfadas/server/raw/main/docs/media/garfadas_banner.png)
 
 O Garfadas é um sistema de emissão e controle de Vale-Alimentação ou Refeição para pequenos negócios. Com ele seu negócio poderá **emitir** o próprio Vale-Alimentação ou Refeição **recarregável**, e **customizado** para sua marca, com uma **interface simples e intuitiva** e de **graça**!
 
